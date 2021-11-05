@@ -15,9 +15,9 @@ body{
 }
 @media screen and (max-width:900px) {
   .sphere{
-    width:33vw;
+    width:30vw;
     margin-top:4%;
-    height:33vw;
+    height:30vw;
     text-align: center;
     background:radial-gradient(#000000,black,#150050,#6802ec,#3c008b,#3c008b);
     border-radius: 50%;
