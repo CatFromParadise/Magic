@@ -32,7 +32,6 @@ divSphere.onclick=function() {
         inputQuestion.style.backgroundColor="white"
     }
     else{
-        inputQuestion.style.backgroundColor='red';
         inputQuestion.placeholder="You have to input some text !!!"
     }
 }
