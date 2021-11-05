@@ -29,7 +29,6 @@ divSphere.onclick=function() {
         divSphere.addEventListener( "animationend",  function() {
         divSphere.classList.remove("clshake");
         divAnswer.classList.remove("blinkcl")});
-        inputQuestion.style.backgroundColor="white"
     }
     else{
         inputQuestion.placeholder="You have to input some text !!!"
